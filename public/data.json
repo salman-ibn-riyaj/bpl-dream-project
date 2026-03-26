@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "playercountry": "India",
+    "ratings": 92,
+    "playertype": "Batsman",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm medium",
+    "price": 2400000,
+    "image": "https://i.ibb.co.com/Gf6BtHNN/virat-kohli.avif"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "playercountry": "Pakistan",
+    "ratings": 90,
+    "playertype": "Batsman",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm medium",
+    "price": 2100000,
+    "image": "https://i.ibb.co.com/Jw3HrVrx/Babar-Azam.png"
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "playercountry": "England",
+    "ratings": 88,
+    "playertype": "All-rounder",
+    "battingstatus": "Left-hand bat",
+    "bowlingstatus": "Right-arm fast-medium",
+    "price": 2000000,
+    "image": "https://i.ibb.co.com/F48LzW6y/Ben-Stokes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pat Cummins",
+    "playercountry": "Australia",
+    "ratings": 91,
+    "playertype": "Bowler",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm fast",
+    "price": 2300000,
+    "image": "https://i.ibb.co.com/mrGTFH32/Pet-Cummins.avif"
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "playercountry": "Afghanistan",
+    "ratings": 89,
+    "playertype": "All-rounder",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm leg-spin",
+    "price": 1900000,
+    "image": "https://i.ibb.co.com/3mvYpSyp/Rashid-Khan.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "playercountry": "England",
+    "ratings": 87,
+    "playertype": "Wicket-keeper Batsman",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Non-bowler",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/prdw3jTM/Jos-Buttler.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Sharma",
+    "playercountry": "India",
+    "ratings": 88,
+    "playertype": "Batsman",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm off-break",
+    "price": 2000000,
+    "image": "https://i.ibb.co.com/VWpv1cJD/rohit-sharma-ap.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kagiso Rabada",
+    "playercountry": "South Africa",
+    "ratings": 89,
+    "playertype": "Bowler",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm fast",
+    "price": 1950000,
+    "image": "https://i.ibb.co.com/67FHJH1J/Kagiso-Rabada.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kane Williamson",
+    "playercountry": "New Zealand",
+    "ratings": 87,
+    "playertype": "Batsman",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Right-arm off-break",
+    "price": 1850000,
+    "image": "https://i.ibb.co.com/tpBzKRLz/Kane-Williamson.webp"
+  },
+  {
+    "id": 10,
+    "name": "Shakib Al Hasan",
+    "playercountry": "Bangladesh",
+    "ratings": 85,
+    "playertype": "All-rounder",
+    "battingstatus": "Left-hand bat",
+    "bowlingstatus": "Left-arm orthodox spin",
+    "price": 1700000,
+    "image": "https://i.ibb.co.com/pvBNyB1F/Shakib-Al-Hasan.webp"
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "playercountry": "New Zealand",
+    "ratings": 86,
+    "playertype": "Bowler",
+    "battingstatus": "Right-hand bat",
+    "bowlingstatus": "Left-arm fast-medium",
+    "price": 1750000,
+    "image": "https://i.ibb.co.com/B5LNPzXT/Trent-Boult.jpg"
+  },
+  {
+    "id": 12,
+    "name": "David Warner",
+    "playercountry": "Australia",
+    "ratings": 86,
+    "playertype": "Batsman",
+    "battingstatus": "Left-hand bat",
+    "bowlingstatus": "Right-arm off-break",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/Vs3SqCN/David-Warner.webp"
+  }
+]
