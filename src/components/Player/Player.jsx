@@ -1,9 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { PiCricketDuotone } from "react-icons/pi";
 import { IoFlagSharp } from "react-icons/io5";
 
-const Player = ({ player }) => {
+const Player = ({ player, handleChoosenPlayers }) => {
   console.log(player);
+
+  const [disable, setDisable] = useState(false);
+  
   return (
     <div className="p-4 rounded-md shadow bg-slate-400 my-2">
       <div>
@@ -39,7 +42,7 @@ const Player = ({ player }) => {
 
       <div className="flex justify-between items-center">
         <p className="font-bold text-red-800">Price: $  {player.price} </p>
-        <button className="btn btn-success">Choose Player</button>
+        <button disabled={disable} onClick={()=> {handleChoosenPlayers(player); setDisable(true)}} className="btn btn-success">{disable? 'Selected' : 'Choose Player'}</button>
       </div>
     </div>
   );
