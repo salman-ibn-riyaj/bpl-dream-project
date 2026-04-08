@@ -1,6 +1,6 @@
 # BPL Dream Project 🏏
+<img width="1839" height="4891" alt="screencapture-bpl-dream-project-one-vercel-app-2026-04-08-17_20_51" src="https://github.com/user-attachments/assets/c818a526-3516-4314-8958-a155f878f316" />
 
-![BPL Dream Banner](https://via.placeholder.com/1200x500/1E40AF/FFFFFF?text=BPL+DREAM+PROJECT)
 
 **BPL Dream** is a fantasy cricket web application inspired by Dream11. Users can browse BPL players, hire/select them and build their own dream team.
 
