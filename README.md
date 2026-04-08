@@ -1,16 +1,48 @@
-# React + Vite
+# BPL Dream Project 🏏
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![BPL Dream Banner](https://via.placeholder.com/1200x500/1E40AF/FFFFFF?text=BPL+DREAM+PROJECT)
 
-Currently, two official plugins are available:
+**BPL Dream** is a fantasy cricket web application inspired by Dream11. Users can browse BPL players, hire/select them and build their own dream team.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Browse all BPL players
+- ✅ Player hiring / selection system
+- ✅ Build your Dream Team
+- ✅ Responsive design for mobile & desktop
+- ✅ Modern and clean user interface
+- ✅ Smooth navigation with active states
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Vite**
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/salman-ibn-riyaj/bpl-dream-project.git
+   cd bpl-dream-project
+
+Install DependenciesBashnpm install
+Start Development ServerBashnpm run dev
+
+
+🌐 Live Demo
+https://bpl-dream-project-one.vercel.app/
+
+
+👨‍💻 Developer
+
+Name: Salman Shah
+Location: Mymensingh, Bangladesh
+GitHub: @salman-ibn-riyaj
